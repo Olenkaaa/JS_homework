@@ -17,7 +17,7 @@ document.write(`
 
     1) S1 = ${S1} <br>
     2) S2 = ${S2.toFixed(2)} <br>
-    3) S2 = ${S3.toFixed(2)} <br>
-    4) S2 = ${S4.toFixed(2)} <br>
+    3) S3 = ${S3.toFixed(2)} <br>
+    4) S4 = ${S4.toFixed(2)} <br>
 
 `);
